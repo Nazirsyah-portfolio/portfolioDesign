@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scroll-behavior: smooth;
+}
+.blend {
+  mix-blend-mode: multiply; /* Mode blending yang digunakan */
+  opacity: 80%;
+}
+.bayangan {
+  text-shadow: 5px 2px black;
+  outline-width: 2px;
+}
