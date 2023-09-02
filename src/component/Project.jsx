@@ -5,7 +5,7 @@ import kalender1Img from "../assets/kalender1.jpg";
 import frontEndImg from "../assets/Frontend Design.jpg";
 import karikatureImg from "../assets/karikature.jpg";
 import Modelling3DImg from "../assets/3D modelling.jpg";
-import ReportCOver from "../assets/COVER RECOVERING JUNI.JPG";
+import ReportCover from "../assets/COVER RECOVERING JUNI.JPG";
 import ModdelingBusStop from "../assets/Bus Stop.jpg";
 import NameTagDesign from "../assets/Name Tag Design.jpg";
 import BillboardImg2 from "../assets/go green ok.jpg";
@@ -61,7 +61,7 @@ const galleryImages = [
     id: "6",
     tools: "Corel Draw",
     title: "Recovering report design",
-    img: ReportCOver,
+    img: ReportCover,
   },
 
   {
