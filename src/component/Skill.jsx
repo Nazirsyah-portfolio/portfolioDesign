@@ -1,4 +1,5 @@
 import React from "react";
+import splash from "/src/imgs/splash.png";
 import {
   SiAdobephotoshop,
   SiGimp,
@@ -98,11 +99,7 @@ const Skill = () => {
       </div>
 
       <div className=" absolute -top-24 md:left-0 -left-32 z-5 ">
-        <img
-          src="./src/imgs/splash.png"
-          alt=""
-          className="w-[400px] h-[400px] blend "
-        />
+        <img src={splash} className="w-[400px] h-[400px] blend " />
       </div>
     </div>
   );
