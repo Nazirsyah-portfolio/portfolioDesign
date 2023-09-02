@@ -1,6 +1,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import { FaWhatsapp, FaGoogle } from "react-icons/fa";
+import bgPicture from "/src/imgs/danka-peter-L0o1RfQuPUY-unsplash.jpg";
 
 const Main = () => {
   return (
@@ -21,7 +22,7 @@ const Main = () => {
       <div className=" absolute w-full h-screen bg-gradient-to-t from-emerald-500 to-sky-500 via-rose-600 mix-blend-multiply"></div>
       <img
         className="w-full h-screen object-cover object-bottom mix-blend-multiply fixed"
-        src="./src/imgs/danka-peter-L0o1RfQuPUY-unsplash.jpg"
+        src={bgPicture}
         alt=""
       />
 
