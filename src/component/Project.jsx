@@ -5,7 +5,6 @@ import kalender1Img from "../assets/kalender1.jpg";
 import frontEndImg from "../assets/Frontend Design.jpg";
 import karikatureImg from "../assets/karikature.jpg";
 import Modelling3DImg from "../assets/3D modelling.jpg";
-import ReportCover from "../assets/COVER RECOVERING JUNI.JPG";
 import ModdelingBusStop from "../assets/Bus Stop.jpg";
 import NameTagDesign from "../assets/Name Tag Design.jpg";
 import BillboardImg2 from "../assets/go green ok.jpg";
@@ -59,91 +58,84 @@ const galleryImages = [
   },
   {
     id: "6",
-    tools: "Corel Draw",
-    title: "Recovering report design",
-    img: ReportCover,
-  },
-
-  {
-    id: "7",
     tools: "3D Studio max renderred by MENTAL-RAY",
     title: "3D Modelling",
     img: ModdelingBusStop,
   },
   {
-    id: "8",
+    id: "7",
     tools: "Corel Draw",
     title: "Name tag design",
     img: NameTagDesign,
   },
   {
-    id: "9",
+    id: "8",
     tools: "PSD",
     title: "Large Format Printing",
     img: BillboardImg2,
   },
   {
-    id: "10",
+    id: "9",
     tools: "Pixelate (android app)",
     title: "Toys Photography",
     img: ToysPhotography,
   },
   {
-    id: "11",
+    id: "10",
     tools: "PSD",
     title: "Merch design",
     img: MerchDesign1,
   },
   {
-    id: "12",
+    id: "11",
     tools: "PSD",
     title: "Merch Design",
     img: MerchDesign2,
   },
   {
-    id: "13",
+    id: "12",
     tools: "PSD",
     title: "Merch Design",
     img: MerchDesign3,
   },
   {
-    id: "14",
+    id: "13",
     tools: "3d Studio Max rendered by Mental ray",
     title: "Booth Exhibition Design",
     img: BoothDesign,
   },
   {
-    id: "15",
+    id: "14",
     tools: "PSD",
     title: "Large Format Printing",
     img: BillboardImg3,
   },
   {
-    id: "16",
+    id: "15",
     tools: "Corel Draw",
     title: "Price Tag Design",
     img: PriceTagDesign2,
   },
   {
-    id: "17",
+    id: "16",
     tools: "Corel Draw",
     title: "Price Tag Design",
     img: PriceTagDesign3,
   },
   {
-    id: "18",
+    id: "17",
     tools: "PSD",
     title: "Cloth design",
     img: ClothDesign,
   },
   {
-    id: "19",
+    id: "18",
     tools: "Blender Rendered by Yafray",
     title: "3D Modelling",
     img: Modelling3DImg,
   },
   {
-    id: "20",
+    id: "19",
     tools: "PSD,Blender Rendered by Yafray",
     title: "One way vision Design Visualitation",
     img: OnewayVisionDesign,
