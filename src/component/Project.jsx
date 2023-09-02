@@ -12,7 +12,6 @@ import ToysPhotography from "../assets/toys.jpg";
 import MerchDesign1 from "../assets/top 10 client ALT2.jpg";
 import MerchDesign2 from "../assets/top 10 client ALT4.jpg";
 import MerchDesign3 from "../assets/top 10 client.jpg";
-import BoothDesign from "../assets/Karimor.jpg";
 import BillboardImg3 from "../assets/go green 2.jpg";
 import PriceTagDesign2 from "../assets/price tag II.jpg";
 import PriceTagDesign3 from "../assets/price tag III.jpg";
@@ -100,42 +99,36 @@ const galleryImages = [
   },
   {
     id: "13",
-    tools: "3d Studio Max rendered by Mental ray",
-    title: "Booth Exhibition Design",
-    img: BoothDesign,
-  },
-  {
-    id: "14",
     tools: "PSD",
     title: "Large Format Printing",
     img: BillboardImg3,
   },
   {
-    id: "15",
+    id: "14",
     tools: "Corel Draw",
     title: "Price Tag Design",
     img: PriceTagDesign2,
   },
   {
-    id: "16",
+    id: "15",
     tools: "Corel Draw",
     title: "Price Tag Design",
     img: PriceTagDesign3,
   },
   {
-    id: "17",
+    id: "16",
     tools: "PSD",
     title: "Cloth design",
     img: ClothDesign,
   },
   {
-    id: "18",
+    id: "17",
     tools: "Blender Rendered by Yafray",
     title: "3D Modelling",
     img: Modelling3DImg,
   },
   {
-    id: "19",
+    id: "18",
     tools: "PSD,Blender Rendered by Yafray",
     title: "One way vision Design Visualitation",
     img: OnewayVisionDesign,
