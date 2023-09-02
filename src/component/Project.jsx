@@ -12,7 +12,7 @@ import ToysPhotography from "../assets/toys.jpg";
 import MerchDesign1 from "../assets/top 10 client ALT2.jpg";
 import MerchDesign2 from "../assets/top 10 client ALT4.jpg";
 import MerchDesign3 from "../assets/top 10 client.jpg";
-import BoothDesign from "../assets/Karimor stand top left.jpg";
+import BoothDesign from "../assets/Karimor.jpg";
 import BillboardImg3 from "../assets/go green 2.jpg";
 import PriceTagDesign2 from "../assets/price tag II.jpg";
 import PriceTagDesign3 from "../assets/price tag III.jpg";
